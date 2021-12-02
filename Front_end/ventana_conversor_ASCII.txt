@@ -1,0 +1,2 @@
+Este archivo contiene el codigo para la ventana del conversor ASCII
+ANIMO
