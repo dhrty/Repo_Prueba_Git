@@ -1,0 +1,4 @@
+Este archivo contiene el codigo para la ventana de la calculadora de octetos
+a dirección IPv4
+:)
+ANIMO
